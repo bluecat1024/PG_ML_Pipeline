@@ -1,0 +1,8 @@
+[submodule "dbgym"]
+	path = dbgym
+	url = git@github.com:bluecat1024/dbgym.git
+	branch = model_exp
+[submodule "noisepage-pilot"]
+	path = noisepage-pilot
+	url = git@github.com:bluecat1024/noisepage-pilot.git
+	branch = gcn_experiment
